@@ -15,7 +15,6 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 ## Sources
 
 * https://fontawesome.com
-* http://konpa.github.io/devicon/
 * https://formspree.io/
 
 ## How to Use it
